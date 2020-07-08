@@ -1,0 +1,46 @@
+.profile-img {
+  width: 200px;
+  height: 300px;
+}
+.topcontents {
+  text-align: center;
+}
+.projects {
+  margin-left: 200px;
+}
+.project {
+  margin-left: 50px;
+}
+.project-desc {
+  margin-left: 50px;
+}
+.tech-known {
+  margin-left: 50px;
+  display: flex;
+  justify-content: space-between;
+  width: 8%;
+}
+
+.tech-image1 {
+  margin-left: 40px;
+  height: 30px;
+}
+.tech-image2 {
+  margin-left: 65px;
+  height: 30px;
+}
+.tech-image3 {
+  height: 30px;
+}
+footer {
+  text-align: center;
+}
+h3 {
+  color: skyblue;
+}
+.topcontents {
+  color: skyblue;
+}
+.projects-heading {
+  color: palevioletred;
+}
